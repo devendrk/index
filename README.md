@@ -1,7 +1,7 @@
 # index
 
-## [Vocabs](https://github.com/devendrk/index)
-## [Excercises](https://github.com/devendrk/Exercises]
+## [Vocabs](https://github.com/devendrk/vocabs)
+## [Excercises](https://github.com/devendrk/Exercises)
 
 ## [errorlogs](https://github.com/devendrk/-error-log)
 
