@@ -1,8 +1,11 @@
 # index
 
-## Excercises
+## [Vocabs](https://github.com/devendrk/index)
+## [Excercises](https://github.com/devendrk/Exercises]
 
-## Projects
+## [errorlogs](https://github.com/devendrk/-error-log)
+
+## [Projects](https://github.com/devendrk/Projects)
 
 ## portfolio
 
