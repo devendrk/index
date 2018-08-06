@@ -1,14 +1,15 @@
 # index
 
-## [Vocabs](https://github.com/devendrk/vocabs)
+## [Vocabs](https://github.com/devendrk/vocab)
 ## [Excercises](https://github.com/devendrk/Exercises)
 
 ## [errorlogs](https://github.com/devendrk/-error-log)
 
 ## [Projects](https://github.com/devendrk/Projects)
 
-## portfolio
+## [portfolio](https://github.com/devendrk/Portfolio)
 
-## Notes
+## [Notes](https://github.com/devendrk/notes)
 
-## Js-Reference
+## [Js-Reference](https://github.com/devendrk/Exercises)
+
