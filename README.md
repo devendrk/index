@@ -1,5 +1,5 @@
 # index
-# [MY Personal Website](https://github.com/devendrk/my-portfolio) 
+# [My Personal Website](https://github.com/devendrk/my-portfolio) 
 
 ## [Vocabs](https://github.com/devendrk/vocab)
 
