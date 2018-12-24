@@ -5,8 +5,6 @@
 
 ## [Excercises](https://github.com/devendrk/Excercise)
 
-## [Projects](https://github.com/devendrk/Projects)
-
 ## [portfolio](https://github.com/devendrk/Portfolio)
 
 ## [Notes](https://github.com/devendrk/notes)
