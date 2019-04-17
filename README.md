@@ -5,7 +5,7 @@
 
 ## [Excercises](https://github.com/devendrk/Excercise)
 
-## [App I made](https://github.com/devendrk/Portfolio)
+## [Playground Repo](https://github.com/devendrk/Portfolio)
 
 ## [Notes](https://github.com/devendrk/notes)
 
